@@ -1,0 +1,11 @@
+{
+  "name": "inm420_week6",
+  "version": "1.0.0",
+  "description": "Template for INM320_Template",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "Ka Wai (Vivien)",
+  "license": "private",
+  "private": true
+}
